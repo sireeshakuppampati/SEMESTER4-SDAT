@@ -15,7 +15,7 @@ public class User {
     private String email;
     private String phoneNumber;
 
-    // Constructors, getters, and setters
+    // Constructors update
 
     public User() {
     }
